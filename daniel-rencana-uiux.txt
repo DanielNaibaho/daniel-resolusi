@@ -2,9 +2,11 @@ RENCANA SUMBER BELAJAR UI/UX
 
 -BWA
 ==> Fullstack Web Developer
-    ^Belajar Prototype
-    ^Belajar UI
+   ^Belajar UX
+   ^Belajar UI
 ==> UI Style Guide
 -Sanbercode
-   ^Belajar bab 1 dan 2
+   ^Materi bab 1 dan 2
 -Medium
+-Skilvul
+-Website Dwinan
